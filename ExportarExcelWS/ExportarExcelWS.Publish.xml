@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\ExportarExcelWS" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="QA" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False">
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="07/28/2014 10:56:13" />
+    <file relUrl="Web.Debug.config" publishTime="01/14/2015 16:32:59" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.dll" publishTime="07/28/2014 10:56:13" />
+    <file relUrl="bin/DocumentFormat.OpenXml.dll" publishTime="02/22/2010 14:33:08" />
+    <file relUrl="bin/ExportarExcelWS.pdb" publishTime="05/08/2015 11:23:47" />
+    <file relUrl="bin/InstalledSW.dll" publishTime="02/18/2015 10:17:12" />
+    <file relUrl="bin/De_CryptDLL.dll" publishTime="12/27/2010 16:27:37" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="07/28/2014 10:56:14" />
+    <file relUrl="Exportar.asmx" publishTime="01/14/2015 16:46:42" />
+    <file relUrl="bin/ExportarExcelWS.dll" publishTime="05/08/2015 11:23:47" />
+    <file relUrl="bin/Microsoft.Practices.Unity.Interception.dll" publishTime="07/28/2014 10:56:14" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="07/28/2014 10:56:13" />
+    <file relUrl="Web.Release.config" publishTime="01/14/2015 16:32:59" />
+    <file relUrl="bin/Impersonate.dll" publishTime="02/18/2015 10:17:13" />
+  </publishProfile>
+  <publishProfile publishUrl="\\hoperaciones\ExportarExcelWS" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Prod" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="07/28/2014 10:56:13" />
+    <file relUrl="Web.Debug.config" publishTime="01/14/2015 16:32:59" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.dll" publishTime="07/28/2014 10:56:13" />
+    <file relUrl="bin/DocumentFormat.OpenXml.dll" publishTime="02/22/2010 14:33:08" />
+    <file relUrl="bin/ExportarExcelWS.pdb" publishTime="01/05/2016 09:40:49" />
+    <file relUrl="bin/InstalledSW.dll" publishTime="02/18/2015 10:17:12" />
+    <file relUrl="bin/De_CryptDLL.dll" publishTime="12/27/2010 16:27:37" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="07/28/2014 10:56:14" />
+    <file relUrl="Exportar.asmx" publishTime="01/14/2015 16:46:42" />
+    <file relUrl="bin/ExportarExcelWS.dll" publishTime="01/05/2016 09:40:49" />
+    <file relUrl="bin/Microsoft.Practices.Unity.Interception.dll" publishTime="07/28/2014 10:56:14" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="07/28/2014 10:56:13" />
+    <file relUrl="Web.Release.config" publishTime="01/14/2015 16:32:59" />
+    <file relUrl="bin/Impersonate.dll" publishTime="02/18/2015 10:17:13" />
+  </publishProfile>
+</publishData>
